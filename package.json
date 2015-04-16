@@ -1,0 +1,27 @@
+{
+  "name": "vatman",
+  "description": "A small CLI to help with reporting quarterly VAT stuff.",
+  "version": "0.0.1",
+  "dependencies": {
+    "JSONStream": "^0.10.0",
+    "bignumber.js": "^2.0.7",
+    "pad": "0.0.8",
+    "space-align": "0.0.2",
+    "through2": "^0.6.5"
+  },
+  "bin": {
+    "vatman": "bin/vatman"
+  },
+  "homepage": "https://github.com/maximilianschmitt/vatman",
+  "bugs": "https://github.com/maximilianschmitt/vatman/issues",
+  "license": "MIT",
+  "author": {
+    "name": "Maximilian Schmitt",
+    "email": "maximilian.schmitt@googlemail.com",
+    "url": "http://maximilianschmitt.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maximilianschmitt/vatman.git"
+  }
+}
